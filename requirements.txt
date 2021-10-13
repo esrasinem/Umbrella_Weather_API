@@ -1,0 +1,10 @@
+#in terminal: pip install fastapi
+#in terminal: pip install uvicorn
+#in terminal: pip install jinja2
+
+fastapi~=0.68.0
+starlette~=0.14.2
+uvicorn~=0.14.0
+jinja2
+pydantic~=1.8.2
+httpx~=0.18.2
